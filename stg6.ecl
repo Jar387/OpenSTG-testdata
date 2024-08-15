@@ -298,7 +298,7 @@ sub Sub13() // midboss terminate
 
 sub Sub14() // stg 6 midboss SC 0 start
 {
-    card(1, 40, "ŠïpuƒGƒ^[ƒiƒ‹ƒ~[ƒNv");
+    card(1, 40, "å¥‡è¡“ã€Œã‚¨ã‚¿ãƒ¼ãƒŠãƒ«ãƒŸãƒ¼ã‚¯ã€");
     hurt_set(0);
     et_ofs(0.0f, 0.0f, 0.0f);
     et_auto_delay(0);
@@ -837,7 +837,7 @@ sub Sub29()
 
 sub Sub30()
 {
-    card(2, 41, "“V”±uƒXƒ^[ƒIƒuƒ_ƒrƒfv");
+    card(2, 41, "å¤©ç½°ã€Œã‚¹ã‚¿ãƒ¼ã‚ªãƒ–ãƒ€ãƒ“ãƒ‡ã€");
     hurt_set(0);
     et_ofs(0.0f, 0.0f, 0.0f);
     et_auto_delay(0);
@@ -884,7 +884,7 @@ Sub30_650:
 
 sub Sub31()
 {
-    card(2, 46, "_”±u—c‚«ƒf[ƒ‚ƒ“ƒ[ƒhv");
+    card(2, 46, "ç¥ç½°ã€Œå¹¼ããƒ‡ãƒ¼ãƒ¢ãƒ³ãƒ­ãƒ¼ãƒ‰ã€");
     hurt_set(0);
     et_ofs(0.0f, 0.0f, 0.0f);
     et_auto_delay(0);
@@ -927,7 +927,7 @@ Sub31_398:
 
 sub Sub32()
 {
-    card(2, 42, "–»•„ugF‚Ì–»ŠEv");
+    card(2, 42, "å†¥ç¬¦ã€Œç´…è‰²ã®å†¥ç•Œã€");
     hurt_set(0);
     et_ofs(0.0f, 0.0f, 0.0f);
     et_auto_delay(0);
@@ -971,7 +971,7 @@ Sub32_322:
 
 sub Sub33()
 {
-    card(2, 47, "–•„uç–{‚Ìj‚ÌRv");
+    card(2, 47, "ç„ç¬¦ã€Œåƒæœ¬ã®é‡ã®å±±ã€");
     hurt_set(0);
     et_ofs(0.0f, 0.0f, 0.0f);
     et_auto_delay(0);
@@ -1020,7 +1020,7 @@ Sub33_322:
 sub Sub34()
 {
     invinc_set(1);
-    card(2, 43, "ôæfuƒuƒ‰ƒhEƒcƒFƒyƒVƒ…‚Ìô‚¢v");
+    card(2, 43, "å‘ªè©›ã€Œãƒ–ãƒ©ãƒ‰ãƒ»ãƒ„ã‚§ãƒšã‚·ãƒ¥ã®å‘ªã„ã€");
     hurt_set(0);
     et_ofs(0.0f, 0.0f, 0.0f);
     et_auto_delay(0);
@@ -1071,7 +1071,7 @@ Sub34_738:
 sub Sub35()
 {
     invinc_set(1);
-    card(2, 48, "_pu‹zŒŒ‹SŒ¶‘zv");
+    card(2, 48, "ç¥è¡“ã€Œå¸è¡€é¬¼å¹»æƒ³ã€");
     hurt_set(0);
     et_ofs(0.0f, 0.0f, 0.0f);
     et_auto_delay(0);
@@ -1154,7 +1154,7 @@ sub Sub38()
     anm_at_move(160, 163, 164, 161, 162);
     anm_at(160);
     invinc_set(1);
-    card(2, 44, "g•„uƒXƒJ[ƒŒƒbƒgƒVƒ…[ƒgv");
+    card(2, 44, "ç´…ç¬¦ã€Œã‚¹ã‚«ãƒ¼ãƒ¬ãƒƒãƒˆã‚·ãƒ¥ãƒ¼ãƒˆã€");
     hurt_set(0);
     et_ofs(0.0f, 0.0f, 0.0f);
     et_auto_delay(0);
@@ -1246,7 +1246,7 @@ sub Sub39()
     anm_at_move(160, 163, 164, 161, 162);
     anm_at(160);
     invinc_set(1);
-    card(2, 49, "g•„uƒXƒJ[ƒŒƒbƒgƒ}ƒCƒXƒ^v");
+    card(2, 49, "ç´…ç¬¦ã€Œã‚¹ã‚«ãƒ¼ãƒ¬ãƒƒãƒˆãƒã‚¤ã‚¹ã‚¿ã€");
     hurt_set(0);
     et_ofs(0.0f, 0.0f, 0.0f);
     et_auto_delay(0);
@@ -1389,7 +1389,7 @@ sub Sub43()
     flag_death_set(3);
     death_at("Sub45");
 +60: //60
-    card(2, 45, "uƒŒƒbƒhƒ}ƒWƒbƒNv");
+    card(2, 45, "ã€Œãƒ¬ãƒƒãƒ‰ãƒã‚¸ãƒƒã‚¯ã€");
     hurt_set(0);
     et_ofs(0.0f, 0.0f, 0.0f);
     et_auto_delay(0);
@@ -1468,7 +1468,7 @@ sub Sub44()
     flag_death_set(3);
     death_at("Sub45");
 +60: //60
-    card(2, 50, "ugF‚ÌŒ¶‘z‹½v");
+    card(2, 50, "ã€Œç´…è‰²ã®å¹»æƒ³éƒ·ã€");
     hurt_set(0);
     et_ofs(0.0f, 0.0f, 0.0f);
     et_auto_delay(0);
